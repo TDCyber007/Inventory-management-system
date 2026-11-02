@@ -27,7 +27,7 @@ Delete the `data/` folder to start fresh.
 | `util/` | `Money` (₹ formatting with lakh grouping) |
 | `data/` | `products.dat`, `transactions.dat`, `users.dat`, `backup/` (created automatically) |
 
-## Where each syllabus topic is used (viva cheat-sheet)
+## Where each syllabus topic is used 
 | Topic | Where |
 |---|---|
 | Classes, encapsulation | `Product`, `Transaction`, `User` (private fields + getters/setters) |
